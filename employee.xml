@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">emp_id</Data></Cell>
+			<Cell><Data ss:Type="String">name</Data></Cell>
+			<Cell><Data ss:Type="String">birth_date</Data></Cell>
+			<Cell><Data ss:Type="String">sex</Data></Cell>
+			<Cell><Data ss:Type="String">salary</Data></Cell>
+			<Cell><Data ss:Type="String">branch_id</Data></Cell>
+			<Cell><Data ss:Type="String">sup_id</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">206</Data></Cell>
+			<Cell><Data ss:Type="String">小黃</Data></Cell>
+			<Cell><Data ss:Type="String">1998-10-08</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="Number">50000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">208</Data></Cell>
+			<Cell><Data ss:Type="String">小黑</Data></Cell>
+			<Cell><Data ss:Type="String">2000-12-19</Data></Cell>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="Number">35000</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">206</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">209</Data></Cell>
+			<Cell><Data ss:Type="String">小白</Data></Cell>
+			<Cell><Data ss:Type="String">1997-01-22</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="Number">39000</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">210</Data></Cell>
+			<Cell><Data ss:Type="String">小蘭</Data></Cell>
+			<Cell><Data ss:Type="String">1925-11-10</Data></Cell>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="Number">84000</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number"></Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
